@@ -1,0 +1,33 @@
+4
+Greatest Hits
+Taylor Swift
+images\artwork1.jpg
+3
+Lover
+tracks\Lover.mp3
+Blank Space
+tracks\Blank Space.mp3
+Cruel Summer
+tracks\Cruel Summer.mp3
+Greatest Hits
+James Arthur
+images\artwork2.jpg
+2
+Say You Won't Let Go
+tracks\Say You Won't Let Go.mp3
+Train Wreck
+tracks\Train Wreck.mp3
+Greatest Hits
+Olivia Rodrigo
+images\artwork3.jpg
+2
+Drivers License
+tracks\Drivers License.mp3
+Traitor
+tracks\Traitor.mp3
+Greatest Hits
+Arctic Monkeys
+images\artwork4.jpg
+1
+I Wanna Be Yours
+tracks\I Wanna Be Yours.mp3
