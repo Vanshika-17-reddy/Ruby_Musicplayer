@@ -1,0 +1,81 @@
+# Dependencies
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+backend/vendor/
+backend/.bundle/
+
+# Testing
+frontend/coverage/
+
+# Production builds
+frontend/build/
+frontend/dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+frontend/.pnp
+frontend/.pnp.js
+
+# Lock files (optional - some prefer to include these)
+frontend/package-lock.json
+frontend/yarn.lock
+backend/Gemfile.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Music files (IMPORTANT - these are usually large)
+# Uncomment these lines if you don't want to push actual music files
+# tracks/*.mp3
+# tracks/*.wav
+# tracks/*.m4a
+# images/*.jpg
+# images/*.png
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Next.js specific
+frontend/.next/
+frontend/.vercel
+
+# Ruby specific
+*.gem
+*.rbc
+.config
+coverage/
+InstalledFiles
+lib/bundler/man/
+pkg/
+rdoc/
+spec/reports/
+test/tmp/
+test/version_tmp/
+tmp/
+
+# Backup files
+*.backup
+*_backup.rb
+music_player_backup.rb
